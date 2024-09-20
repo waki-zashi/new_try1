@@ -1,4 +1,5 @@
 k = 0
+m = 'im really tired'
 for i in range(1000, 10000):
     i = str(i)
     if int(i[0]) % 3 == 0:
@@ -8,4 +9,4 @@ for i in range(1000, 10000):
 
     if r > 10:
         k += 1
-print(k)
+print(m)
