@@ -1,1 +1,1 @@
-print('Simple code')
+print('Simple code, its easy')
